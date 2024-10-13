@@ -1,4 +1,4 @@
-* Secret Network Notes
+# Secret Network Notes
 
 * Progress
 	* [X] Introduction
