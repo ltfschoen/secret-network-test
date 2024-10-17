@@ -45,6 +45,19 @@
       * https://testnet.ping.pub/secret
     * Gateways Deployed https://docs.scrt.network/secret-network-documentation/confidential-computing-layer/ethereum-evm-developer-toolkit/supported-networks/evm/evm-testnet-gateway-contracts
     * Secret Network repo - https://github.com/SecretFoundation/SecretNetwork
+    * Secret Network Testnet
+      * Secret compatible wallet: Keplr - https://keplr.crunch.help/en/getting-started/installing-keplr-wallet
+      * Faucet - pulsar-3 testnet faucet - https://faucet.pulsar.scrttestnet.com/
+      * Connect to Testnet connect wallet to pulsar-3 https://keplr-connect-pulsar3.vercel.app/
+        * https://connect.pulsar.scrttestnet.com
+        * https://rpc.pulsar.scrttestnet.com
+        * https://testnet.ping.pub/secret/
+          ```
+          Contract Address Testnet Chain
+          SSCRT
+          secret1gvn6eap7xgsf9kydgmvpqwzkru2zj35ar2vncj
+          Pulsar-3
+          ```
 
 * Secret network
 	* Secret network is a Layer 1 sovereign in Cosmos ecosystem built with Cosmos SDK
