@@ -6,15 +6,45 @@
 
 * Help
 	* Docs
+    * Secret docs https://github.com/SecretFoundation/docs
 		* Rust Docs
+      * Secret Network Toolkit
+        * [ ] Storage - https://docs.rs/secret-toolkit-storage/0.10.0/secret_toolkit_storage/index.html
 			* CosmWasm
-				* https://docs.rs/cosmwasm-std/latest/cosmwasm_std/
-				* https://docs.cosmwasm.com/docs/1.0/
+				* [ ] https://docs.rs/cosmwasm-std/latest/cosmwasm_std/
+				* [ ] https://docs.cosmwasm.com/docs/1.0/
+            * Rust CosmWasm - https://docs.rs/cosmwasm-std/latest/cosmwasm_std
+  * Guides
+    * [ ] Architecture of Secret - https://docs.scrt.network/secret-network-documentation/development/example-contracts/guides-tutorials
+    * [ ] In-depth guide to Secret contracts - https://docs.scrt.network/secret-network-documentation/development/example-contracts/guides-tutorials
+    * [ ] Run your own Relayer at the step "configuring the relayer" https://docs.scrt.network/secret-network-documentation/confidential-computing-layer/ethereum-evm-developer-toolkit/basics/cross-chain-messaging/secretpath/how-to-deploy-secretpath-on-your-chain
+  * Examples
+    * https://github.com/SecretFoundation/Secretpath-tutorials
+    * https://github.com/SecretSaturn/SecretPath
+      * Gateway TNLS
+        * https://github.com/SecretSaturn/SecretPath/blob/main/TNLS-Gateways/public-gateway/src/Gateway.sol
+      * Relayer 
+    * https://github.com/writersblockchain/secretpath-ballz 
+    * https://github.com/writersblockchain/aes-encrypt
+    * Sealed Bid Auction Walkthrough
+      * https://darwinzero.medium.com/creating-my-first-secret-contract-on-secret-network-scrt-db0d04597051
+      * https://github.com/baedrik/SCRT-sealed-bid-auction/blob/master/WALKTHROUGH.md
+    * https://github.com/scrtlabs/examples
+    * Hackathon submissions
+      * https://taikai.network/ethrome/hackathons/ethrome-24/projects
+      * Uses Aztec Noir https://github.com/MihRazvan/SHIELDSPACE-ETHRome
+      * https://github.com/ethdam24-quadratic/secret-repo
 	* Q&A
 		* Meetings
-			* Secret Network - Weekly Dev calls Mondays 5pm UTC Discord - https://discord.com/invite/secret-network-360051864110235648
-		* Forum https://forum.scrt.network/
+			* [ ] Secret Network - Weekly Dev calls Mondays 5pm UTC Discord - https://discord.com/invite/secret-network-360051864110235648
+		* [ ] Forum https://forum.scrt.network/
 		* [Other](https://docs.scrt.network/secret-network-documentation#join-the-community)
+    * Discord https://scrt.network/discord
+  * Resources
+    * Block Explorer
+      * https://testnet.ping.pub/secret
+    * Gateways Deployed https://docs.scrt.network/secret-network-documentation/confidential-computing-layer/ethereum-evm-developer-toolkit/supported-networks/evm/evm-testnet-gateway-contracts
+    * Secret Network repo - https://github.com/SecretFoundation/SecretNetwork
 
 * Secret network
 	* Secret network is a Layer 1 sovereign in Cosmos ecosystem built with Cosmos SDK
