@@ -34,12 +34,15 @@
       * https://taikai.network/ethrome/hackathons/ethrome-24/projects
       * Uses Aztec Noir https://github.com/MihRazvan/SHIELDSPACE-ETHRome
       * https://github.com/ethdam24-quadratic/secret-repo
+		* Tests and Integration Tests
+			* https://github.com/CosmWasm/cosmwasm/blob/main/contracts/hackatom/src/contract.rs
 	* Q&A
 		* Meetings
 			* [ ] Secret Network - Weekly Dev calls Mondays 5pm UTC Discord - https://discord.com/invite/secret-network-360051864110235648
 		* [ ] Forum https://forum.scrt.network/
 		* [Other](https://docs.scrt.network/secret-network-documentation#join-the-community)
     * Discord https://scrt.network/discord
+		* Telegram t.me/SecretNetworkDevs
   * Resources
     * Block Explorer
       * https://testnet.ping.pub/secret
