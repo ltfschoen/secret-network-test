@@ -7,6 +7,8 @@
 * Help
 	* Docs
     * Secret docs https://github.com/SecretFoundation/docs
+		* Secret.js docs https://secretjs.scrt.network/
+		* Secret Python SDK - https://github.com/secretanalytics/secret-sdk-python
 		* Rust Docs
       * Secret Network Toolkit
         * [ ] Storage - https://docs.rs/secret-toolkit-storage/0.10.0/secret_toolkit_storage/index.html
@@ -15,11 +17,17 @@
 				* [ ] https://docs.cosmwasm.com/docs/1.0/
             * Rust CosmWasm - https://docs.rs/cosmwasm-std/latest/cosmwasm_std
   * Guides
+		* [ ] Snakepath whitepaper - https://uploads-ssl.webflow.com/632b43ea48475213272bcef4/632dd73d6dfc1b0cba06bbd6_Snakepath_whitepaper.pdf
     * [ ] Architecture of Secret - https://docs.scrt.network/secret-network-documentation/development/example-contracts/guides-tutorials
     * [ ] In-depth guide to Secret contracts - https://docs.scrt.network/secret-network-documentation/development/example-contracts/guides-tutorials
     * [ ] Run your own Relayer at the step "configuring the relayer" https://docs.scrt.network/secret-network-documentation/confidential-computing-layer/ethereum-evm-developer-toolkit/basics/cross-chain-messaging/secretpath/how-to-deploy-secretpath-on-your-chain
   * Examples
+		* VRF Developer Tutorial - https://docs.scrt.network/secret-network-documentation/confidential-computing-layer/ethereum-evm-developer-toolkit/usecases/vrf/vrf-developer-tutorial#request-random-numbers
+			* encrypted payloads in EVM Gateway - https://docs.scrt.network/secret-network-documentation/confidential-computing-layer/ethereum-evm-developer-toolkit/usecases/vrf/using-encrypted-payloads-for-vrf
+		* Key-Value Store Developer Tutorial - https://docs.scrt.network/secret-network-documentation/confidential-computing-layer/ethereum-evm-developer-toolkit/usecases/storing-encrypted-data-on-secret-network/key-value-store-developer-tutorial
+			* Note: Uses submit.js, similar to this https://github.com/writersblockchain/secretpath-ballz/blob/master/src/functions/submit.js#L32
     * https://github.com/SecretFoundation/Secretpath-tutorials
+			* https://github.com/SecretFoundation/Secretpath-tutorials/blob/master/encrypted-payloads/evm-contract/contracts/Gateway.sol#L418
     * https://github.com/SecretSaturn/SecretPath
       * Gateway TNLS
         * https://github.com/SecretSaturn/SecretPath/blob/main/TNLS-Gateways/public-gateway/src/Gateway.sol
@@ -30,6 +38,7 @@
       * https://darwinzero.medium.com/creating-my-first-secret-contract-on-secret-network-scrt-db0d04597051
       * https://github.com/baedrik/SCRT-sealed-bid-auction/blob/master/WALKTHROUGH.md
     * https://github.com/scrtlabs/examples
+		* https://github.com/secretchaingirl/secret-contracts-guide
     * Hackathon submissions
       * https://taikai.network/ethrome/hackathons/ethrome-24/projects
       * Uses Aztec Noir https://github.com/MihRazvan/SHIELDSPACE-ETHRome
